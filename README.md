@@ -1,5 +1,33 @@
 # gk2a-data-info
-GK2A Level 1B Data Processing Software & Analysis Tools
+#National Meteorological Satellite Center (NMSC)
 
-GK2A Level 1B Data Processing & Analysis ResourcesNational Meteorological Satellite Center (NMSC)This repository serves as the official technical gateway for the GEO-KOMPSAT-2A (GK2A) satellite data ecosystem. It provides comprehensive access to sample codes, ancillary datasets, and technical documentation required for processing Level 1B data from the Advanced Meteorological Imager (AMI).1. Sample Data & CodeIntroductory resources for developers to verify their processing environment.
-Sample Data: gk2a_ami_le1b_sw038_fd020ge_202201010000.ncSample Code (Python): Source Code | Technical Description (PDF)Sample Code (Fortran): Read_AMI.f90 / SenPlanck_Gk2a.f902. Ancillary DataEssential datasets for satellite image navigation and spatial grid alignment.2.1 GEOS (Geostationary) ProjectionLatitude and Longitude information for the default geostationary satellite projection.Binary File Information: readme_latlon.txtCoverage Area500m Resolution1km Resolution2km ResolutionTotal (All Res.)Full DiskNC / BINNC / BINNC / BINNC / BINExtended LocalNC / BINNC / BINNC / BINNC / BIN2.2 LCC (Lambert Conformal Conic) ProjectionLatitude and Longitude datasets for imagery remapped to the LCC projection.Coverage Area500m Resolution1km Resolution2km ResolutionTotal (All Res.)East AsiaNC / TXTNC / TXTNC / TXTNC / TXTKoreaNC / TXTNC / TXTNC / TXTNC / TXTTyphoonNC / TXTNC / TXTNC / TXTNC / TXTExt. LocalNC / TXTNC / TXTNC / TXTNC / TXT3. Calibration & Spectral Response Function (SRF)Data required to convert digital counts into physical properties such as Radiance, Brightness Temperature, and Reflectance.3.1 Calibration Tablesv3.1 (Includes IR133 SRF Shift Correction)v3.0 (Standard Release)3.2 Spectral Response Function (SRF)Complete Dataset (All 16 AMI Bands - ZIP)Individual Band Data: IR087 | IR096 | IR105 | IR112 | IR123 | IR133 | NR013 | NR016 | SW038 | VI004 | VI005 | VI006 | VI008 | WV063 | WV069 | WV0734. Land/Sea MaskStatic mask datasets for distinguishing terrestrial and oceanic surfaces.Land/Sea Mask Dataset (ZIP) | Technical ReadmeArea500m Resolution1km Resolution2km ResolutionTotalFull DiskDownloadDownloadDownloadDownloadExt. LocalDownloadDownloadDownloadDownload5. Technical Documents & User ManualsOfficial mission specifications and scientific algorithms for GK2A.Mission Specifications: UHRIT | HRIT | LRITUser Guides: Level 1B User Manual (ZIP) | Imagery Information (PDF)Scientific Algorithms: ATBD (GK2A)Source: Official data distribution of the National Meteorological Satellite Center (NMSC).https://nmsc.kma.go.kr
+# Data Processing Software & Resources
+
+This repository provides official software, technical manuals, and reference source codes for Geo-Kompsat-2A (GK2A), managed by the National Meteorological Satellite Center (NMSC) of the Korea Meteorological Administration (KMA).
+
+For further details, please visit the [Official NMSC Software Page](https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=static.utilization.software).
+
+---
+
+## 1. Technical Documentation
+Comprehensive manuals for system installation and operational procedures.
+
+* [GK2A User Image Processing Tool Manual (KOR)](https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=static.utilization.software)
+* [GK2A MDUS Receiver Installation Guide](https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=static.utilization.software)
+* [GK2A MDUS Receiver Operator Manual](https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=static.utilization.software)
+
+
+## 2. Ancillary Data
+Standard datasets for geographical coordination and masking.
+
+* Standard Latitude/Longitude: [Geostationary (GEOS) Projection Info](https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=static.utilization.software)
+* Land/Sea Mask: [GK2A Land/Sea Mask Data & Specifications](https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=static.utilization.software)
+
+| Category | Description | Link |
+| :--- | :--- | :--- |
+| GK2A ATBD | Algorithm Theoretical Basis Documents | [View Documents](https://nmsc.kma.go.kr/homepage/html/base/cmm/selectPage.do?page=static.edu.atbdGk2a) |
+| COMS ATBD | Algorithm Theoretical Basis Documents (COMS) | [View Documents](https://nmsc.kma.go.kr/homepage/html/base/cmm/selectPage.do?page=static.edu.atbdComs) |
+| Product Definition | Service Catalog and Data Specifications | [View Catalog](https://nmsc.kma.go.kr/homepage/html/base/cmm/selectPage.do?page=static.utilization.productDefinition) |
+
+---
+Disclaimer: All resources provided are the official assets of the Korea Meteorological Administration. For inquiries, please contact the [National Meteorological Satellite Center](https://nmsc.kma.go.kr/).

@@ -3,19 +3,7 @@
 This document provides a structured overview of the software, sample data, and ancillary datasets for Geo-Kompsat-2A (GK2A), managed by the National Meteorological Satellite Center (NMSC).
 
 ---
-
- 1. Sample Data & Code
-
-# ■ Sample Data
-- gk2a_ami_le1b_sw038_fd020ge_202201010000.nc
-
-# ■ Sample Code
-- Python: Source Code / Description (PDF)
-- Fortran: Read_AMI.f90 / SenPlanck_Gk2a.f90
-
----
-
- 2. Ancillary Data
+1. Ancillary Data
 
 # ■ GEOS Projection
 - Instruction File: readme_latlon.txt
@@ -35,7 +23,7 @@ This document provides a structured overview of the software, sample data, and a
 
 ---
 
- 3. Calibration & Spectral Response Function (SRF)
+ 2. Calibration & Spectral Response Function (SRF)
 
 # ■ Calibration Table
 - Version 3.1: 20191115_gk-2a_ami_calibration_table_v3.1
@@ -46,7 +34,7 @@ This document provides a structured overview of the software, sample data, and a
 
 ---
 
- 4. Land/Sea Mask
+ 3. Land/Sea Mask
 - Resource Pack: gk2a_LSMask.zip
 - Instruction: readme_landsea.txt
 

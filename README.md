@@ -28,8 +28,9 @@ This document provides a structured overview of the software, sample data, and a
  2. Calibration & Spectral Response Function (SRF)
 
  ■ Calibration Table
- [(v3.1) 20191115_gk-2a_ami_calibration_table_v3.1_ir133_srf_shift.xlsx](https://nmsc.kma.go.kr/homepage/json/base/bbs/selectAtchFile.do?attachFileUsq=40620&refTbUsq=201006)
- [(v3.0) 20190415_gk-2a_ami_calibration_table_v3.0.xlsx](https://nmsc.kma.go.kr/homepage/json/base/bbs/selectAtchFile.do?attachFileUsq=40092&refTbUsq=200057)
+* [(v3.1) 20191115_gk-2a_ami_calibration_table_v3.1_ir133_srf_shift.xlsx](https://nmsc.kma.go.kr/homepage/json/base/bbs/selectAtchFile.do?attachFileUsq=40620&refTbUsq=201006)
+ 
+* [(v3.0) 20190415_gk-2a_ami_calibration_table_v3.0.xlsx](https://nmsc.kma.go.kr/homepage/json/base/bbs/selectAtchFile.do?attachFileUsq=40092&refTbUsq=200057)
 
 
 # ■ Spectral Response Function (SRF)

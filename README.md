@@ -6,12 +6,14 @@ This document provides a structured overview of the software, sample data, and a
 1. Ancillary Data
 
 # ■ GEOS Projection
-- Instruction File: readme_latlon.txt
+- Instruction: [readme_latlon.txt](https://nmsc.kma.go.kr/upload/resource/data/gk2a/readme_latlon.txt)
 
-| Area | 500m | 1km | 2km | Total Resolution |
+| Area | 500m | 1km | 2km | Total (All Res.) |
 | :--- | :---: | :---: | :---: | :---: |
-| Full Disk | NC / BIN | NC / BIN | NC / BIN | NC / BIN |
-| Extended Local Area | NC / BIN | NC / BIN | NC / BIN | NC / BIN |
+| Full Disk | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_fd005ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_fd005ge_latlon.bin) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_fd010ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_fd010ge_latlon.bin) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_fd020ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_fd020ge_latlon.bin) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_fd_latlon.nc) / [BIN](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_fd_latlon.bin) |
+| Extended Local Area | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea005ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea005ge_latlon.bin) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea010ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea010ge_latlon.bin) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea020ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea020ge_latlon.bin) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea_latlon.nc) / [BIN](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea_latlon.bin) |
+
+---
 
 # ■ LCC Projection
 | Area | 500m (NC/TXT) | 1km (NC/TXT) | 2km (NC/TXT) | Total Resolution |

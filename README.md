@@ -34,19 +34,24 @@ This document provides a structured overview of the software, sample data, and a
 
 
 # ■ Spectral Response Function (SRF)
-- GK2A_AMI_SRF.zip (Full 16 Bands)
+- [GK2A_AMI_SRF.zip (Full 16 bands)](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=40587)
+
+| IR Bands | NR/SW Bands | VI Bands | WV Bands |
+| :--- | :--- | :--- | :--- |
+| [IR087](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41935) / [IR096](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41936) | [NR013](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41941) / [NR016](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41942) | [VI004](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41944) / [VI005](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41945) | [WV063](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41948) |
+| [IR105](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41937) / [IR112](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41938) | [SW038](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41943) | [VI006](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41946) / [VI008](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41947) | [WV069](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41949) |
+| [IR123](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41939) / [IR133](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41940) | | | [WV073](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41950) |
 
 ---
+3. Land/Sea Mask
 
- 3. Land/Sea Mask
-- Resource Pack: gk2a_LSMask.zip
-- Instruction: readme_landsea.txt
+ Instruction Manual: [readme_landsea.txt](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41968)
+ Full Dataset Package: [gk2a_LSMask.zip](https://nmsc.kma.go.kr/homepage/json/base/bbs/selectAtchFile.do?attachFileUsq=40578&refTbUsq=200978)
 
-| Area | 500m | 1km | 2km | Total Resolution |
+| Area | 500m | 1km | 2km | Total (All Res.) |
 | :--- | :---: | :---: | :---: | :---: |
-| Full Disk | Provided | Provided | Provided | Provided |
-| Extended Local Area | Provided | Provided | Provided | Provided |
-| Local Area | Provided | Provided | Provided | Provided |
+| Full Disk | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41971) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41969) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41970) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41978) |
+| Extended Local Area | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41974) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41972) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41973) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41979) |
+| Local Area | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41977) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41975) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41976) | [Download](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41980) |
 
----
 Data Source: Korea Meteorological Administration (KMA) / National Meteorological Satellite Center (NMSC)

@@ -36,11 +36,7 @@ This document provides a structured overview of the software, sample data, and a
 # ■ Spectral Response Function (SRF)
 - [GK2A_AMI_SRF.zip (Full 16 bands)](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=40587)
 
-| IR Bands | NR/SW Bands | VI Bands | WV Bands |
-| :--- | :--- | :--- | :--- |
-| [IR087](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41935) / [IR096](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41936) | [NR013](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41941) / [NR016](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41942) | [VI004](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41944) / [VI005](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41945) | [WV063](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41948) |
-| [IR105](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41937) / [IR112](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41938) | [SW038](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41943) | [VI006](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41946) / [VI008](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41947) | [WV069](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41949) |
-| [IR123](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41939) / [IR133](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41940) | | | [WV073](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41950) |
+
 
 ---
 3. Land/Sea Mask

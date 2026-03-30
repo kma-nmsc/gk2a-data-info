@@ -16,13 +16,12 @@ This document provides a structured overview of the software, sample data, and a
 
 ---
 
-# ■ LCC Projection
-| Area | 500m (NC/TXT) | 1km (NC/TXT) | 2km (NC/TXT) | Total Resolution |
+| Area | 500m (NC / TXT) | 1km (NC / TXT) | 2km (NC / TXT) | Total (All Res.) |
 | :--- | :---: | :---: | :---: | :---: |
-| East Asia | Available | Available | Available | Available |
-| Korea | Available | Available | Available | Available |
-| Typhoon | Available | Available | Available | Available |
-| Extended Local Area | Available | Available | Available | Available |
+| East Asia | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea005lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41966) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea010lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41962) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ea010lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41961) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_eazzzlc_latlon.zip) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41986) |
+| Korea | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ko005lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41960) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ko010lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41958) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ko020lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41959) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_kozzzlc_latlon.zip) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41984) |
+| Typhoon | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_tp005lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41990) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_tp010lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41989) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_tp020lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41988) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_tpzzzlc_latlon.zip) / [TXT](https://nmsc.kma.go.kr/upload/resource/data/gk2a/latlon_tp.zip) |
+| Extended Local Area | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ela005lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41965) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ela010lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41964) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ela020lc_latlon.nc) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41963) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_elazzzlc_latlon.zip) / [TXT](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41985) |
 
 ---
 

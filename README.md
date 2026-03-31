@@ -3,9 +3,9 @@
 This document provides a structured overview of the software, sample data, and ancillary datasets for Geo-Kompsat-2A (GK2A), managed by the National Meteorological Satellite Center (NMSC).
 
 ---
-1. Ancillary Data
+# 1. Ancillary Data
 
-# ■ GEOS Projection
+## ■ GEOS Projection
 
  Instruction Manual: [readme_latlon.txt](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41951)
 
@@ -25,21 +25,21 @@ This document provides a structured overview of the software, sample data, and a
 
 ---
 
- 2. Calibration & Spectral Response Function (SRF)
+# 2. Calibration & Spectral Response Function (SRF)
 
- ■ Calibration Table
+## ■ Calibration Table
 * [(v3.1) 20191115_gk-2a_ami_calibration_table_v3.1_ir133_srf_shift.xlsx](https://nmsc.kma.go.kr/homepage/json/base/bbs/selectAtchFile.do?attachFileUsq=40620&refTbUsq=201006)
  
 * [(v3.0) 20190415_gk-2a_ami_calibration_table_v3.0.xlsx](https://nmsc.kma.go.kr/homepage/json/base/bbs/selectAtchFile.do?attachFileUsq=40092&refTbUsq=200057)
 
 
-# ■ Spectral Response Function (SRF)
+## ■ Spectral Response Function (SRF)
 - [GK2A_AMI_SRF.zip (Full 16 bands)](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=40587)
 
 
 
 ---
-3. Land/Sea Mask
+# 3. Land/Sea Mask
 
  Instruction Manual: [readme_landsea.txt](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41968)
  Full Dataset Package: [gk2a_LSMask.zip](https://nmsc.kma.go.kr/homepage/json/base/bbs/selectAtchFile.do?attachFileUsq=40578&refTbUsq=200978)

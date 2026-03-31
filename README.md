@@ -3,9 +3,9 @@
 This document provides a structured overview of the software, sample data, and ancillary datasets for Geo-Kompsat-2A (GK2A), managed by the National Meteorological Satellite Center (NMSC).
 
 ---
-# 1. Ancillary Data
+# 1. Geolocation Data(Latitude/Longitude)
 
-## ■ GEOS Projection
+## ■ Geostationary(GEOS) Projection
 
  Instruction Manual: [readme_latlon.txt](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41951)
 
@@ -15,6 +15,7 @@ This document provides a structured overview of the software, sample data, and a
 | Extended Local Area | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ela005ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41956) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ela010ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41954) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_ela020ge_latlon.nc) / [BIN](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41955) | [NC](https://nmsc.kma.go.kr/upload/resource/data/gk2a/gk2a_ami_elazzzge_latlon.zip) / [BIN](https://nmsc.kma.go.kr/homepage/json/base/resources/selectAtchFile.do?attachFileUsq=41981) |
 
 ---
+## ■ Lambert Conformal Conic(LCC) Projection
 
 | Area | 500m (NC / TXT) | 1km (NC / TXT) | 2km (NC / TXT) | Total (All Res.) |
 | :--- | :---: | :---: | :---: | :---: |

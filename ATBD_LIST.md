@@ -5,7 +5,7 @@
 ## ■ 지표면 / 해양
 | 자료명 | 버전 | 등록일 | 첨부파일 |
 | :--- | :---: | :---: | :--- |
-| 구름탐지 | - | 2019. 04. 15 | [PDF](https://nmsc.kma.go.kr/resources/common/pdf/GK2A_ATBD_CLD_KOR_v1.0.pdf) |
+| 구름탐지 | 1.0 | 2019. 04. 15 | [PDF](https://nmsc.kma.go.kr/resources/common/pdf/GK2A_ATBD_CLD_KOR_v1.0.pdf) |
 | 산불탐지 | 1.1 | 2024. 05. 13 | [PDF](https://nmsc.kma.go.kr/resources/common/pdf/외GK2A_L2_ATBD_국문_산불탐지_FF.pdf) |
 | 식생 [식생지수, 식생율] | 1.0 | 2019. 04. 14 | [PDF](https://nmsc.kma.go.kr/resources/common/pdf/외GK2A_L2_ATBD_국문_식생_NDVI-FVC.pdf) |
 | 안개 | 2.0 | 2021. 11. 30 | [PDF](https://nmsc.kma.go.kr/resources/common/pdf/GK2A_L2_ATBD_국문_안개_FOG_v2.0.pdf) |
